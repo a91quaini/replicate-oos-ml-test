@@ -1,0 +1,14 @@
+{
+  "description": "Compact production data used to generate the current four-method simulation evidence. Pilots and superseded studies excluded. Statistics were previously audited against the original checkpoint files; this distribution rechecks hashes, counts, rejection rules and empirical null calibration from compact tables.",
+  "files": {
+    "data/lasso/configuration.json": "7d800907c967d7777d73eb1f7c313a3149e806c65237c7869213c2cd70a75d0f",
+    "data/lasso/draw_statistics.csv.gz": "a029f81754d48f09d824fad937300ef2ad4f4274b95143fef43a282521fefb8a",
+    "data/lasso/summary.csv": "a57b5bd12f9355dcd80574519f6b25289c6b080edc6ccb847091da2142b5e013",
+    "data/neural/configuration.json": "714b2682a48152841789aa8eddf403fe387f686ee2e5ab21f5f2226d7e9d743a",
+    "data/neural/diagnostic_summary.csv": "d0172cb6628c2c626219f6384f08186778632f9038862f8e48ada26af2299206",
+    "data/neural/draw_statistics.csv.gz": "a4a85b3f64230fe535baded4ea70f75bdbe8c56e58592de0c090ad16c893a1ec",
+    "data/neural/learning.csv.gz": "4d28a098b867ac4a39a4c6ac9451d7439389ac55067330d5b8cc707b24a11965",
+    "data/neural/power_comparisons.csv": "37f41f55266c4e62a6768357ddf94137c36ca0f58a82e9d37f13aeb21be16173",
+    "data/neural/summary.csv": "0a964257efbe70184bb3b26bda742fa695f1b1df6432b1e1db37565d30458d04"
+  }
+}

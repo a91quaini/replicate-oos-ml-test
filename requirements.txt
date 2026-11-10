@@ -1,0 +1,6 @@
+# Figure/table regeneration and lasso simulations; tested with Python 3.12.
+numpy==2.0.1
+scipy==1.14.0
+scikit-learn==1.5.1
+matplotlib==3.9.1
+pandas==2.2.2
